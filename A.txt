@@ -1,0 +1,20 @@
+BookMaster -  Sistema de Gerenciamento de Biblioteca
+
+Diagrama de Caso de uso
+Diagrama de Classe
+Diagrama de Sequência
+Diagrama de Entidade e Relacionamento
+
+Cenário
+
+A biblioteca municipal quer um sistema que gerencie livros, empréstimos e devoluções de maneira eficiente. O sistema deve ser acessível tanto para os funcionários quanto para os leitores que poderão consultar o catálogo online e reservar livros.
+
+Requisitos Iniciais:
+
+Cadastro de leitores e funcionários
+Catálogo digital de livros, com status de disponibilidade.
+Sistema de empréstimo e devolução de livros.
+Notificações por e-mail para prazos de devolução.
+Geração de relatórios de uso e estoque.
+
+Desafio Extra: Adicionar um sistema de recomendação de livros, esse sistema é com base no histórico de leitura do usuário.
